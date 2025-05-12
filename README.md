@@ -4,7 +4,11 @@ Integrate LangGraph with AWS Bedrock for building agents with MCP capabilities.
 
 ## Description
 
-This repo implements a conversational agent built with LangGraph that uses AWS Bedrock and integrates with MCP for tool usage. 
+This repo implements a sample conversational agent built with LangGraph that uses AWS Bedrock and integrates with MCP for tool usage. 
+
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/3dfc27b6-f372-4058-9363-446fabb9aafe" />
+
+> Mermaid transformed on [https://excalidraw.com/](https://excalidraw.com/).
 
 ## Features
 
