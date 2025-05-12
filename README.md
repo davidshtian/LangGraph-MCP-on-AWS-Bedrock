@@ -1,6 +1,6 @@
 # LangGraph MCP on AWS Bedrock
 
-Integrate LangGraph with AWS Bedrock for building agents with MCP capabilities.
+Integrate LangGraph with AWS Bedrock (Converse API) for building agents with MCP capabilities.
 
 ## Description
 
