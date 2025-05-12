@@ -1,0 +1,6 @@
+langchain-aws
+langchain-core
+langgraph
+langchain-mcp-adapters
+boto3
+pydantic
