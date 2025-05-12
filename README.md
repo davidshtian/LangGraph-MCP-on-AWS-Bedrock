@@ -8,7 +8,7 @@ This repo implements a sample conversational agent built with LangGraph that use
 
 <img width="547" alt="image" src="https://github.com/user-attachments/assets/3dfc27b6-f372-4058-9363-446fabb9aafe" />
 
-> Mermaid transformed on [https://excalidraw.com/](https://excalidraw.com/).
+> Mermaid transformed on [https://excalidraw.com/](https://excalidraw.com/) website.
 
 ## Features
 
@@ -46,13 +46,21 @@ Run the script with default options:
 
 ```bash
 python langgraph_mcp_bedrock.py
+
+# or using uv run
 ```
+
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/e99509c1-3d27-404c-ad54-5f97978bfc54" />
+
 
 Or customize execution:
 
 ```bash
-python langgraph_mcp_bedrock.py --question "What services does AWS offer for machine learning?" --model "us.anthropic.claude-3-7-sonnet-20250219-v1:0" --graph
+python langgraph_mcp_bedrock.py --question "tell me what is aws sagemaker lakehouse"
 ```
+
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/75264416-c1c6-4202-90de-1d121ec7d3e6" />
+
 
 ## Command Line Options
 
